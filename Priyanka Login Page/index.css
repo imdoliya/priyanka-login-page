@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(bg.jpg)no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 45%;
+}
+
+.container h1{
+    width: 40;
+    display: inline-block;
+    font-size: 20px;
+    border-bottom: 5px solid rgba(246, 70, 205, 0.521);
+    margin-bottom: 5px;
+    padding: 13.0px;
+
+}
+.box{
+    width: ;
+border-bottom: 2px solid purple;
+}
+
+.box input{
+    background: none;
+    width: 64%;
+    margin: 2px 23px;
+    padding: 20px 0px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: wheat;
+}
+
+
+.button{
+color: white;
+cursor: pointer;
+outline: none;
+width: 35%;
+margin: 12px 0;
+padding: 14px 14px;
+border: 2px solid palevioletred;
+border-radius: 17px;
+font-size: 20px;
+background: none;
+font-weight: bold;
+
+}
+
+.button:hover{
+    color: purple;
+    background: white;
+    
+
+}
